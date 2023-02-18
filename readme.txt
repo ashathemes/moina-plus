@@ -45,7 +45,7 @@ License: CC0 1.0 Universal (CC0 1.0)
 License URL: https://pxhere.com/en/license
 Source: https://pxhere.com/en/photo/1132791
 
-* Image for theme screenshot two, Copyright Pxhere
+* Image for theme screenshot three, Copyright Pxhere
 License: CC0 1.0 Universal (CC0 1.0)
 License URL: https://pxhere.com/en/license
 Source: https://pxhere.com/en/photo/1046471
